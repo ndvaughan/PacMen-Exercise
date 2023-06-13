@@ -8,8 +8,9 @@ Description:
 Create a webpage where we can add PacMen with random positioning and velocity with the click of a button. There are to be two buttons: one to add PacMen & one to start the game. The PacMen are supposed to bounce off the window edges as if they are stuck in a box.
 
 How To Run: 
-A. Download the required files from the repository.
-B. Load 'index.html' in a web browser page
+A. Download the required files from the repository
+B. Ensure all files are located in the same folder
+C. Load 'index.html' in a web browser page (eg: Google Chrome) by dragging and dropping
 C. Press the buttons to play the game
 
 Project Status:
