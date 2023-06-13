@@ -12,10 +12,17 @@ A. Download the required files from the repository.
 B. Load 'index.html' in a web browser page
 C. Press the buttons to play the game
 
+Project Status:
+Ongoing (last updated 06132023)
+
 Roadmap of future improvements:
 A. Create a stop game button
 B. Create a remove pacmen button
 C. Introduce color selection
+
+Authors:
+MITx Pro Staff
+Nicholas Vaughan
 
 License Information:
 MIT License
